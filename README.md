@@ -46,11 +46,11 @@ Using the in-built functions in python well-documented in the attached .ipynb fi
 This can be clearly shown by plotting the frequency of different genres of movies in the top 100.
 
 
-![Top Genre Frequencies](Images\Top_Genre_Frequencies.png)
+![Top Genre Frequencies](./Images/Top_Genre_Frequencies.png)
 
 2. Another recommendation is to use either the BV, Universal or WB studio for film production. This can be illustrated better through the graph below that visualizes the studio performances over time.
 
-![Top 10 Studio Performances](Images\Top_10_Studio_Performances.png)
+![Top 10 Studio Performances](./Images/Top_10_Studio_Performances.png)
 
 The plot above shows that BV studio has been among the leading foreign_gross earnings for studios in the last eight years despite a slight dip in the last two years. This makes it a high probability choice for studios to use.
 
@@ -58,7 +58,7 @@ It is also important to note that Universal and WB have also experienced a gradu
 
 3. The pool of directors provided for the top movies(although most are documentaries) is a good place to start when considering  who to direct the films. The added advantage of some of them being not only directors but also writers, actors or even cinematographers can prove invaluable depending on the film.
 
-![Director Frequency](Images\Director_Frequency.png)
+![Director Frequency](./Images/Director_Frequency.png)
 
 The graph above shows a graph of frequency of appearance of the directors of the top 30 films ranked according to their ratings. This list provides the top talented directors involved in the movie production industry.
 
